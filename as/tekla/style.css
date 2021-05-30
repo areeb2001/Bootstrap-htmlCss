@@ -1,0 +1,53 @@
+.navbar{
+    background-color: grey !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.as{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding :20px;
+    padding :20px;
+}
+.aw{
+    background-image: url("https://assets.website-files.com/5f15530648874c5f977e91c2/5f485c74a08e7aeab289cb68_abm-college-tekla-certification-hero-1366x475.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+ 
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+@media only screen and (max-width: 400px) {
+    div.aw {
+        background-image: url("https://assets.website-files.com/5f15530648874c5f977e91c2/5f485c74a08e7aeab289cb68_abm-college-tekla-certification-hero-1366x475.jpg");
+        width: 400px;
+        background-size: stretch;
+    }
+  }
+.btn{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 400px;
+    color: white !important;
+    font-weight: bold;
+}
+.main{
+
+        margin-top: 50px;
+}
+.card{
+    width: 250px;
+   
+    height: 320px;
+}
+footer{
+    background-color: gray !important;
+    color: white;
+}

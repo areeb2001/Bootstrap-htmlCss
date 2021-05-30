@@ -1,0 +1,32 @@
+.navbar{
+    background-color: grey !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.as{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding :20px;
+    padding :20px;
+}
+.carousel-inner{
+    margin-top: 10px;
+    
+    
+}
+.aq{
+    background-color: black;
+    color: white;
+    padding :20px;
+    padding :20px;
+    text-align: center;
+}
+.page-footer{
+    background-color: grey;
+}
+.page-footer{
+    margin-top: 20px;
+}

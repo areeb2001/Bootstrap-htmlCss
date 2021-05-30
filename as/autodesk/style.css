@@ -1,0 +1,61 @@
+.navbar{
+    background-color: grey !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.aq{
+    background-image: url('https://marvel-b1-cdn.bc0a.com/f00000000067087/www.bdcnetwork.com/sites/bdc/files/styles/content_features/public/05_BU-BoothTheatre_Stage_ElkusManfrediArchitects_EricLaignel%20copy.jpg?itok=et1ZFO3f');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.btn{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 400px;
+    color: white !important;
+    font-weight: bold;
+}
+.card{
+    width: 250px;
+   
+    height: 450px;
+}
+.main{
+
+    margin-top: 50px;
+}
+.ar{
+    background-image: url('https://www.quadrasol.co.uk/uploads/images/hero/bim2.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    margin-top: 30px;
+}
+.ae{
+    background-image: linear-gradient(blue,white);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+   
+    
+}
+footer{
+    background-color: gray !important;
+    color: white;
+}
+   

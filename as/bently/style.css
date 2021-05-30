@@ -1,0 +1,29 @@
+.navbar{
+    background-color: grey !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.as{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding :20px;
+    padding :20px;
+}
+.aq{
+    width: 100%;
+
+    height: 400px;
+}
+.card{
+    width: 270px;
+   margin-top: 30px;
+    height: 450px;
+    border-style: initial;
+}
+footer{
+    background-color: gray !important;
+    color: white;
+}
